@@ -1,1 +1,1 @@
-This is my portfolio code repositiory
+This is my portfolio code repository
