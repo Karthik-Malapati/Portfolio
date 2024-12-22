@@ -1,1 +1,1 @@
-This is my portfolio website code repositiory
+This is my portfolio website code repository
